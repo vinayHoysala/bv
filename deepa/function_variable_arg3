@@ -1,0 +1,18 @@
+//js has a builtin variable called arguments
+//in which it will store all the arguments
+//we pass
+
+function a(){
+    console.lo(arguments[0]);
+    console.log(argments[1]);
+    console.log(arguments[2));
+    console.log('---------');
+    console.log();
+}
+
+a(1);
+a(1,2);
+a(1,2,3);
+a('192)
+
+}
