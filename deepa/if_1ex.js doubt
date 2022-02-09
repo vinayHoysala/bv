@@ -1,0 +1,22 @@
+var x=1,y=2,
+
+//example1:
+if(x=y) // equal to writing if(2)
+///it means 2 is assigned to x which was earlier 1
+//it means if(2)
+
+console.log(true)
+else
+console.log(false);
+
+
+console.log(x,y);
+
+//example 2;
+if((x=y))
+console.log(true);
+else
+console.log(false);
+
+///not done...doubt
+if,if else ...boolean
